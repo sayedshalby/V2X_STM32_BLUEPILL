@@ -4,11 +4,11 @@ The V2X Mega Project is a comprehensive vehicular communication system consistin
 # Table of Contents
 * [Overview](#Overview)
 * [Sub-Systems](#Sub-Systems)
-* [V2V (Vehicle-to-Vehicle Communication)](#V2V (Vehicle-to-Vehicle Communication))
-* [V2I (Vehicle-to-Infrastructure Communication)](#V2I (Vehicle-to-Infrastructure Communication))
-* [V2N (Firmware Over-The-Air Updates)](#V2N (Firmware Over-The-Air Updates))
-* [Hardware Platform](#Hardware_Platform)
-* [Installation and Setup](#Installation_and_Setup)
+* [V2V (Vehicle-to-Vehicle Communication)](#V2V)
+* [V2I (Vehicle-to-Infrastructure Communication)](#V2I)
+* [V2N (Firmware Over-The-Air Updates)](#V2N)
+* [Hardware Platform](#Hardware)
+* [Installation and Setup](#Installation)
 
 ## Overview
 The V2X project aims to enhance road safety and traffic efficiency through real-time communication and intelligent decision-making capabilities. By integrating cutting-edge technology and utilizing the STM32F103 BLUE PILL microcontroller platform, the project enables seamless interaction between vehicles and their environment.
