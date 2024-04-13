@@ -4,9 +4,6 @@ The V2X Mega Project is a comprehensive vehicular communication system consistin
 # Table of Contents
 * [Overview](#Overview)
 * [Sub-Systems](#Sub-Systems)
-* [V2V (Vehicle-to-Vehicle Communication)](#V2V)
-* [V2I (Vehicle-to-Infrastructure Communication)](#V2I)
-* [V2N (Firmware Over-The-Air Updates)](#V2N)
 * [Hardware Platform](#Hardware)
 * [Installation and Setup](#Installation)
 
