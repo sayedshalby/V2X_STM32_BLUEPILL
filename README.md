@@ -8,6 +8,7 @@ The V2X Project is a comprehensive vehicular communication system consisting of 
 * [Sub-Systems](#Sub-Systems)
 * [Hardware Platform](#Hardware)
 * [Installation and Setup](#Installation)
+* [Video](#Video)
 
 ## Overview
 The V2X project aims to enhance road safety and traffic efficiency through real-time communication and intelligent decision-making capabilities. By integrating cutting-edge technology and utilizing the STM32F103 BLUE PILL microcontroller platform, the project enables seamless interaction between vehicles and their environment.
@@ -47,6 +48,9 @@ Detailed installation and setup instructions for each sub-system can be found in
 * [V2V Sub-system](https://github.com/mohnagah/V2X_STM32_BLUEPILL/blob/main/V2V/README.md)
 * [V2I Sub-system](https://github.com/mohnagah/V2X_STM32_BLUEPILL/blob/main/V2I/README.md)
 * [V2N (FOTA) Sub-system](https://github.com/mohnagah/V2X_STM32_BLUEPILL/blob/main/V2N(FOTA)/README.md)
+
+## Video
+[V2X Video](https://drive.google.com/file/d/1F-bdVTFiJUpT6BwC1ZCleQs7BNeWXbmT/view?usp=sharing)
 
 ## License
 This project is licensed under the GPL-3.0 License.
