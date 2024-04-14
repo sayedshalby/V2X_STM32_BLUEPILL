@@ -33,7 +33,7 @@ Features:
 The V2N sub-system facilitates Firmware Over-The-Air (FOTA) updates for the master vehicle, ensuring it remains up-to-date with the latest software releases. This sub-system enables seamless integration of new features and improvements without physical intervention, enhancing the functionality and performance of the vehicle.
 
 Features:
-- Firmware Updates: Over-The-Air updates for the master vehicle's firmware.
+- Firmware Updates: Over-the-air updates for the master vehicle's firmware.
 - Remote Management: Manage software versions and configurations remotely.
 - STM32F103 BLUE PILL Compatibility: Designed for the STM32F103 BLUE PILL microcontroller platform.
   
