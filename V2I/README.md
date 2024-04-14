@@ -31,6 +31,6 @@ A Proteus project (compatible with Proteus 8.13 or later) is included in the rep
 ![image](https://github.com/mohnagah/V2X_STM32_BLUEPILL/assets/157398651/2865d2d2-39a2-4ef4-b773-a3902f2fe6ae)
 
 ## Video
-  [V2i Project Video]()
+  [V2I Project Video](https://drive.google.com/file/d/1kfDJT_t7LR6rfkv6qvNyGiT7B-GUHLA3/view?usp=sharing)
 ## License
 This sub-system is part of the V2X Project and is licensed under the [GPL-3.0 License](https://github.com/mohnagah/V2X_STM32_BLUEPILL/blob/main/LICENSE).
