@@ -6,8 +6,8 @@ The V2X Project is a comprehensive vehicular communication system consisting of 
 # Table of Contents
 * [Overview](#Overview)
 * [Sub-Systems](#Sub-Systems)
-* [Hardware Platform](#Hardware)
-* [Installation and Setup](#Installation)
+* [Hardware Platform](#Hardware_Platform)
+* [Installation and Setup](#Installation_and_Setup)
 * [Video](#Video)
 
 ## Overview
