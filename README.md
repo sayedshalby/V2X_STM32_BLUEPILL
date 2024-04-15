@@ -1,5 +1,5 @@
 # V2X Project
-The V2X Project is a comprehensive vehicular communication system consisting of three main sub-systems: V2V, V2I, and V2N (Firmware Over-The-Air updates). These sub-systems enable communication between vehicles (V2V), vehicles and infrastructure (V2I), and facilitate firmware updates for the master vehicle (V2N).
+The V2X Project is a comprehensive vehicular communication system consisting of three main sub-systems: V2V, V2I, and V2N (Firmware Over-The-Air updates). These sub-systems enable communication between vehicles (V2V), vehicles and infrastructure (V2I), and facilitate firmware updates (FOTA) for the master vehicle (V2N).
 
 ![image](https://github.com/mohnagah/V2X_STM32_BLUEPILL/assets/157398651/ecb7130c-e697-464e-97d5-9eb3485a362e)
 
