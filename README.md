@@ -54,3 +54,5 @@ Detailed installation and setup instructions for each sub-system can be found in
 
 ## License
 This project is licensed under the GPL-3.0 License.
+
+----
