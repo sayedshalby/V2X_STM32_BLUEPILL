@@ -1,4 +1,4 @@
-ifndef TL_TIMER_INTERFACE_H_
+#ifndef TL_TIMER_INTERFACE_H_
 #define TL_TIMER_INTERFACE_H_
 
 
