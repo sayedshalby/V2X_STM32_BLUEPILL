@@ -39,7 +39,7 @@ A Proteus schematic is provided to facilitate testing and validation of the V2V 
 ![image](https://github.com/mohnagah/V2X_STM32_BLUEPILL/assets/157398651/f380c53a-5a97-4ed4-8cfe-ce3f97d800e0)
 
 ## Video
-(V2V Video)[https://drive.google.com/file/d/14AlpnU1DaGrllxCIZEGOUKeVba8zaNHt/view?usp=sharing]
+[V2V Video](https://drive.google.com/file/d/14AlpnU1DaGrllxCIZEGOUKeVba8zaNHt/view?usp=sharing])
 
 ## License
 
